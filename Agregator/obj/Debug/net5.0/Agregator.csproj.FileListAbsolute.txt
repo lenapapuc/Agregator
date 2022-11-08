@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\Agregator\Agregator\bin\Debug\net5.0\Agregator.exe
+C:\Users\User\RiderProjects\Agregator\Agregator\bin\Debug\net5.0\Agregator.deps.json
+C:\Users\User\RiderProjects\Agregator\Agregator\bin\Debug\net5.0\Agregator.runtimeconfig.json
+C:\Users\User\RiderProjects\Agregator\Agregator\bin\Debug\net5.0\Agregator.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\Agregator\Agregator\bin\Debug\net5.0\Agregator.dll
+C:\Users\User\RiderProjects\Agregator\Agregator\bin\Debug\net5.0\ref\Agregator.dll
+C:\Users\User\RiderProjects\Agregator\Agregator\bin\Debug\net5.0\Agregator.pdb
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.dll
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\ref\Agregator.dll
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.pdb
+C:\Users\User\RiderProjects\Agregator\Agregator\obj\Debug\net5.0\Agregator.genruntimeconfig.cache
